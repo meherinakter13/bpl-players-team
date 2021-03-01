@@ -18,15 +18,14 @@ const Team = () => {
     
     return (
         <div className="team-container d-flex">
-        <div className="player-container">
-                {
-                 players.map(player=><Players player ={player} handleAddPlayer={handleAddPlayer} key={player.id} ></Players>)
-                }     
-        </div>
-        <div className="cart-container">
-            <Cart cart ={cart}></Cart>
-        </div>
-       
+            <div className="player-container">
+                    {
+                    players.map(player=><Players player ={player} handleAddPlayer={handleAddPlayer} key={player.id} ></Players>)
+                    }     
+            </div>
+            <div className="cart-container">
+                <Cart cart ={cart}></Cart>
+            </div>
     </div>
     );
 };

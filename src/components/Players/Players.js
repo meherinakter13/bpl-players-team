@@ -8,7 +8,6 @@ const Players = (props) => {
 const{name,image,salary}= props.player;
 
     return (
-
         <div className="playerStyle d-flex">
             <div >
                 <img src={image}alt=""/>

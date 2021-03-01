@@ -11,7 +11,7 @@ const Cart = (props) => {
     let name  =' ('+player.name+'($'+player.salary+')' + ' ), ';
     playerName.push(name);
     }
-
+    
     return (
         <div>
         <h3>Team Summary</h3>

@@ -11,8 +11,6 @@ const Header = () => {
             <div>
                 <h1> Bangladesh Premier League: BPL PLAYER AUCTION 2021 </h1>
             </div>
-            
-            
         </div>
     );
 };

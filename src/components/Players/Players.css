@@ -12,15 +12,12 @@
 }
 .playerStyle img{
     height: 400px;
-    width:400px;
-   
-  
+    width:400px; 
 }
 .playerDetails{
     margin-left: 20px;
     margin-top: 15%;
 }
-
 .button-click{
     height:40px;
     width:150px;
