@@ -1,0 +1,19 @@
+.header{
+    display:flex;
+    justify-content: center;
+    background-color:rgb(165, 11, 165);
+    height: 100px;
+    margin-bottom: 25px;
+    color:white;
+    
+}
+.header img{
+    height: 76px;
+    width: 100px;
+    margin-right: 10px;
+    border:2px solid purple;
+    margin-top: 10px;
+}
+.header h1{
+    margin-top:15px;
+}

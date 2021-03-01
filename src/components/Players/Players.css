@@ -1,0 +1,29 @@
+.playerStyle{
+    box-shadow:4px 4px 6px 6px rgb(85, 84, 84) ;
+    width:100%;
+    margin-bottom: 30px;
+    font-size:25px ;
+}
+.playerStyle h5{
+    background-color: rgb(165, 11, 165);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+.playerStyle img{
+    height: 400px;
+    width:400px;
+   
+  
+}
+.playerDetails{
+    margin-left: 20px;
+    margin-top: 15%;
+}
+
+.button-click{
+    height:40px;
+    width:150px;
+    color: white;
+    padding:5px;
+}

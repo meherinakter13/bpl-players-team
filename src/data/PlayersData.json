@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "name": "Mashrafe Bin Mortaza",
+    "image": "https://img.etimg.com/thumb/msid-76482397,width-1200,height-900/news/sports/mashrafe-mortaza-tests-positive-for-covid-19.jpg",
+    "salary": 45000
+  }, {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "image": "https://alormela.org/images/banners/2016/11/Tamim-iqbal.jpg",
+    "salary": 45000
+  }, {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "image": "https://www.crictracker.com/wp-content/uploads/2019/10/Shakib-Al-Hasan-1-1.jpg",
+    "salary": 45000
+  }, {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "image": "https://i1.wp.com/otirikto.com/wp-content/uploads/2018/12/Mushfiqur-Rahim.jpg?fit=511%2C363&ssl=1",
+    "salary": 45000
+  }, {
+    "id": 5,
+    "name": "Mahmudullah",
+    "image": "https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/01/23/mahmudullah_05.jpg?itok=udCUQlGt&timestamp=1579784133",
+    "salary": 45000
+  }, {
+    "id": 6,
+    "name": "Chris Gayle",
+    "image": "https://c.ndtvimg.com/2019-02/5k9d81ug_chris-gayle-returns_625x300_07_February_19.jpg",
+    "salary": 200000
+  }, {
+    "id": 7,
+    "name": "Brad Hodge",
+    "image": "https://www.celebritycontactdetails.com/wp-content/uploads/2020/07/Cricketer-Brad-Hodge-Contact.jpg",
+    "salary": 200000
+  }, {
+    "id": 8,
+    "name": "Tillakaratne Dilshan",
+    "image": "https://pbs.twimg.com/profile_images/468438739073499136/GO7quzuB_400x400.jpeg",
+    "salary": 200000
+  }, {
+    "id": 9,
+    "name": "Shoaib Malik",
+    "image": "https://pbs.twimg.com/profile_images/897029154096504833/e3IXmo53_400x400.jpg",
+    "salary": 200000
+  }, {
+    "id": 10,
+    "name": "Darren Sammy",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157791/daren-sammy.jpg",
+    "salary": 200000
+  }, {
+    "id": 11,
+    "name": " Ravi Bopara",
+    "image": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20150301120957.jpeg",
+    "salary": 200000
+  }, {
+    "id": 12,
+    "name": "Robin Peterson",
+    "image": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140522041948.jpeg",
+    "salary": 200000
+  }, {
+    "id": 13,
+    "name": "Kieron Pollard",
+    "image": "http://dhakadynamites.com/images/profile/Kiron-Pollard_2019-01-07_524.jpg",
+    "salary": 200000
+  }, {
+    "id": 14,
+    "name": "Thisara Perera",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170714/thisara-perera.jpg",
+    "salary": 200000
+  }, {
+    "id": 15,
+    "name": "Yasir Shah",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAe3oeXaGR58rF0L-Tjz7574isAaxTHs5qw&usqp=CAU",
+    "salary": 200000
+  }]
